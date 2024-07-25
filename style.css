@@ -1,0 +1,7 @@
+.presentación{
+    display: flex; 
+    justify-content: flex-start;
+    align-items: center;
+    height: 80vh;
+
+}
