@@ -1,7 +1,33 @@
-.presentación{
+#presentacion{
     display: flex; 
     justify-content: flex-start;
     align-items: center;
     height: 80vh;
 
+}
+
+.proyecto {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+#proyecto-1{
+    background-image: url('assets/chongyun.jpg');
+   
+}
+
+#proyecto-2{
+    background-image: url('https://i.pinimg.com/736x/b5/23/a4/b523a47bbf8436e26bff3d9dda10692a.jpg');
+   
+}
+
+#proyecto-3{
+    background-image: url('https://i.pinimg.com/736x/b5/23/a4/b523a47bbf8436e26bff3d9dda10692a.jpg');
+   
+}
+
+.text-shadow-1 {
+    text-shadow: -2px 0px 6px rgba(0, 0, 0, 1);
 }
