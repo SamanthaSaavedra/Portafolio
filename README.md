@@ -5,7 +5,7 @@ Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap 
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-[Proyecto desplegado ()]()
+[Proyecto desplegado (https://delicate-bienenstitch-d309dd.netlify.app/)](https://delicate-bienenstitch-d309dd.netlify.app/)
 
 ## Secciones de mi sitio
 
