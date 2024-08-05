@@ -22,7 +22,7 @@ typewriter
   .typeString('<> Inteligencia Artificial')
   .pauseFor(300)
   .deleteAll()
-  .typeString('<> VideoJuegos')
+  .typeString('<> Videojuegos')
   .pauseFor(300)
   .start();
 
@@ -38,8 +38,17 @@ let typewriterFrase = new Typewriter(frase, {
 
 typewriterFrase
   .pauseFor(2500)
-  .typeString('La vida es bella')
+  .typeString('"El futuro pertenece a quienes creen en la belleza de sus sueños." — Eleanor Roosevelt')
+  .pauseFor(300)
+  .deleteAll()
+  .typeString('"El éxito consiste en ir de fracaso en fracaso sin perder el entusiasmo." — Winston Churchill')
+  .pauseFor(300)
+  .deleteAll()
+  .typeString('"La mejor manera de predecir el futuro es inventarlo." — Alan Kay')
   .pauseFor(300)
   .deleteAll()
   .start();
+
+
+
 

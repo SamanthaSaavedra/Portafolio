@@ -5,13 +5,19 @@ Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap 
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-[Proyecto desplegado (https://delicate-bienenstitch-d309dd.netlify.app/)](https://delicate-bienenstitch-d309dd.netlify.app/)
+[Proyecto desplegado](https://portafolio-samantha-saavedra.netlify.app/)
 
 ## Secciones de mi sitio
 
-![Presentación](assets/iStock-1500238408.jpg)
+![Presentación](assets/presentacion.png)
 
-![Habilidades](assets/foto.jpg)
+![Habilidades](assets/habilidades.png)
+
+![Proyectos](assets/proyectos.png)
+
+![Testimonios](assets/testimonios.png)
+
+![Footer](assets/footer.png)
 
 ## Tecnologías 
 
@@ -23,6 +29,6 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 
 ---
 
-Desarrollado con amor 💜 por [Saidavaas]() en [Technolochicas Pro]()
+Desarrollado con amor 💜 por [Saidavaas] en [Technolochicas Pro](https://tecnolochicas.mx/)
 
 
